@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="BCC.css">
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <header>
+      <img src="BBC logo" alt="BBC">
+      <h3>BBC</h3>
+        <img src="https://thumbs.dreamstime.com/b/user-icon-vector-people-profile-person-illustration-business-users-group-symbol-male-195160429.jpg" alt="Sign In">
+        <nav>
+          <ul>
+            <li><a href="https://account.bbc.com/signin?realm=%2F&clientId=Account&context=programmes&ptrt=https%3A%2F%2Fwww.bbc.co.uk%2Fschedules%2Fp00fzl9m&userOrigin=programmes_ps&isCasso=false&action=sign-in&redirectUri=https%3A%2F%2Fsession.bbc.co.uk%2Fsession%2Fcallback%3Frealm%3D%2F&service=IdSignInService&nonce=txSNf7aL-AEms0Ur6F4F325EgEpG7h3qMAdw">Sign In</a></li>
+            <li><a href="https://www.bbc.com/">Home</a></li>
+            <li><a href="https://www.bbc.com/news">News</a></li>
+            <li><a href="https://www.bbc.com/sport">Sport</a></li>
+            <li><a href="https://www.bbc.com/reel">Reel</a></li>
+            <li><a href="https://www.bbc.com/worklife">Worklife</a></li>
+            <li><a href="https://www.bbc.com/travel">Travel</a></li>
+            <li><a href="https://www.bbc.com/future">Future</a></li>
+            <li><a href="https://www.bbc.com/culture">Culture</a></li>
+            <li><a href="more.html">More<a/></li>
+          </ul>
+
+      <form>
+        <label for="site-search">Search</label>
+        <input type="search" id="site search"name="q">
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/003/610/547/small/icon-of-magnifier-black-style-free-vector.jpg" alt="Search">
+      </form>
+
+          </nav>
+
+      <h3>Welcome to BBC.com</h3>
+
+      <label for="start">Start Date:</label>
+      <input type="date" id="start" name="trip-start" value="2022-06-23" min="2022-01-01" max="2022-12-31">
+
+        <section>
+          <img src="https://www.fijivillage.com/news_images/11281879985f35891401639f2979c8.jpg" alt="Israel and UAE strike historic peace deal">
+            <h2>Israel and UAE strike historic peace deal</h2>
+              <p>Israel and the UAE agree to normalise relations, making the third Israel-Arab peace deal</p>
+                <a href="https://www.bbc.com/news">Middle East</a>
+        </section>
+
+        <section>
+          <img src="https://h7.alamy.com/comp/3/ddb0648c595d40b1a94b488b8460f89c/ffne19.jpg" alt="Americans Go Home: Tension at Canada-US Border">
+            <h2>Americans Go Home: Tension at Canada-US Border</h2>
+              <a href="https://www.bbc.com/news">Canada</a>
+        </section>
+
+        <section>
+          <img src="https://www.gavi.org/sites/default/files/vaccineswork/2021/Thumb/shutterstock_1925998277_h2.jpg" alt="How will the world vaccinate seven billion people?">
+            <h2>How will the world vaccinate seven billion people?</h2>
+              <a href="https://www.bbc.com/news">Health</a>
+        </section>
+
+        <section>
+          <img src="https://ychef.files.bbci.co.uk/976x549/p08ngz84.jpg" alt="The online "Productivity Gyms"">
+            <h2>The online "Productivity Gyms"</h2>
+              <a href="https://www.bbc.com/worklife">Work Life</a>
+        </section>
+
+        <section>
+          <img src="https://cdn.britannica.com/34/182334-050-FBE869DE/Victor-Jara.jpg" alt="The fold singer murdered for his music">
+            <h2>The folk singer murdered for his music</h2>
+              <a href="https://www.bbc.com/culture">Culture</a>
+        </section>
+
+      <h3>News<h3>
+
+        <section>
+          <img src="https://i.cbc.ca/1.5685212.1597341223!/fileImage/httpImage/usa-election-biden-harris.JPG" alt="Biden and Harris say Trump has left US 'in' shatters">
+            <h2>Biden and Harris say Trump has left US 'in' shatters</h2>
+              <p>Joe Biden and running mate Kamala Harris call President Donald Trump a "whining" incompetent leader.</p>
+                <a href="https://www.bbc.com/news">US ELECTION</a>
+
+          <img src="https://c.files.bbci.co.uk/EA08/production/_113921995_hi062881024.jpg" alt="Women for 'solidarity chain' in Belarus protest">
+            <h2>Women form 'solidarity chains' in Belarus protest</h2>
+              <p>Women take to the streets of Minsk dressed in white as they demand an end to police brutality.</p>
+                <a href="https://www.bbc.com/travel">EUROPE</a>
+
+          <img src="https://c.files.bbci.co.uk/295F/production/_113919501_hi045965426.jpg" alt="Trump says low-pressure shower heads won't wash">
+            <h2>Trump says low-pressure shower heads won't wash</h2>
+              <p>The US calls for rules to be eased after Donald Trump complained of issues washing his hair.</p>
+                <a href="https://www.bbc.com/news">US & CANADA</a>
+          </section>
+    </header>
+  </body>
+</html>
